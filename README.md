@@ -11,7 +11,7 @@ You can pick one of the suggested project ideas or come up with your own. The ma
 Your project must have:
 
 * A FastAPI backend
-* A RAG pipeline
+* A RAG pipeline 
 * An LLM integration
 * A frontend of your choice
 * A vector database or vector store
